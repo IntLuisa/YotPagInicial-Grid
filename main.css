@@ -1,0 +1,33 @@
+main{
+    display: flex;
+}
+#barraLateral{
+    width: 20%;
+}
+#videos{
+    display:grid;
+    grid-template-columns: repeat(4,25%);
+}
+.modulo{
+    margin: 10px;
+}
+.infVid{
+    display: flex;
+}
+.dono{
+    border-radius: 100%;
+}
+.capa{
+    border-radius: 20px;
+}
+.tex{
+    display: block;
+}
+.tags{
+    display: flex;
+    align-items: center;
+}
+#casa{
+    width: 25px;
+    height: 20px;
+}
