@@ -2,7 +2,7 @@ main{
     display: flex;
 }
 #barraLateral{
-    width: 20%;
+    width: 25%;
 }
 #videos{
     display:grid;
